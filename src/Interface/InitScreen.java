@@ -84,7 +84,7 @@ public class InitScreen {
 				} 
 				catch (Exception ex) {
 					gridDecision.setText("");
-					JOptionPane.showMessageDialog(null, "Debes ingresar un numero menor a 7");
+					JOptionPane.showMessageDialog(null, "Debes ingresar un numero (menor a 7)");
 				}
 			}
 		});
