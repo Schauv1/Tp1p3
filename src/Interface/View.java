@@ -21,6 +21,7 @@ public class View {
 	int gridSize;
 	JButton[][] JButtonMatrix;
 	ButtonController buttonController;
+	
 	/**
 	 * Create the application.
 	 */
